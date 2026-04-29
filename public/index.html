@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Le Détroit</title>
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="theme-color" content="#0a1628" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Le Détroit" />
+  <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-content">
+      <div class="header-title">
+        <div class="header-emblem">⚓</div>
+        <div>
+          <h1>Le Détroit</h1>
+          <p class="header-sub">Ormuz — Veille géopolitique</p>
+        </div>
+      </div>
+      <div class="live-badge">
+        <span class="dot"></span> LIVE
+      </div>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="actu">Actualités</button>
+    <button class="tab" data-tab="pays">Acteurs</button>
+    <button class="tab" data-tab="histoire">Histoire</button>
+  </nav>
+
+  <!-- ONGLET ACTUALITÉS -->
+  <section id="tab-actu" class="tab-content active">
+
+    <div class="update-bar">
+      <span id="last-update">Chargement...</span>
+      <button class="refresh-btn" onclick="refreshData()">↻</button>
+    </div>
+
+    <!-- Stats clés toujours visibles -->
+    <div class="stats-strip">
+      <div class="stat-pill">
+        <span class="stat-val" id="wti-price">—</span>
+        <span class="stat-lbl">WTI $/baril</span>
+        <span class="stat-chg" id="wti-change"></span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-pill">
+        <span class="stat-val">~20%</span>
+        <span class="stat-lbl">du pétrole mondial</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-pill">
+        <span class="stat-val">54 km</span>
+        <span class="stat-lbl">largeur minimale</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-pill">
+        <span class="stat-val">~20</span>
+        <span class="stat-lbl">pétroliers/jour</span>
+      </div>
+    </div>
+
+    <div id="days-container">
+      <div class="loading-card">
+        <div class="spinner"></div>
+        <p>Récupération des informations...</p>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ONGLET ACTEURS -->
+  <section id="tab-pays" class="tab-content">
+    <div class="pays-intro">
+      Tous les États et acteurs impliqués dans le détroit d'Ormuz depuis 2018 — leurs actions, leur posture, les conséquences.
+    </div>
+    <div id="pays-container">
+      <div class="loading-card"><div class="spinner"></div></div>
+    </div>
+  </section>
+
+  <!-- ONGLET HISTOIRE -->
+  <section id="tab-histoire" class="tab-content">
+    <div class="timeline-intro">
+      L'histoire du détroit d'Ormuz de 1900 à aujourd'hui — cliquer sur une période pour l'ouvrir.
+    </div>
+    <div class="timeline" id="timeline-container"></div>
+  </section>
+
+  <script src="/app.js"></script>
+</body>
+</html>

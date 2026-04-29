@@ -1,0 +1,154 @@
+[
+  {
+    "id": "usa",
+    "nom": "États-Unis",
+    "drapeau": "🇺🇸",
+    "role": "Puissance militaire dominante",
+    "couleur": "#1a3a6b",
+    "actions": [
+      { "annee": 2018, "texte": "Retrait unilatéral du JCPOA et rétablissement de sanctions maximales contre l'Iran, ciblant notamment ses exportations pétrolières." },
+      { "annee": 2019, "texte": "Déploiement de porte-avions et bombardiers en réponse aux tensions dans le Golfe. Accusation de l'Iran dans les attaques contre pétroliers en mer d'Oman." },
+      { "annee": 2020, "texte": "Assassinat par drone du général Qassem Soleimani (CGRI) à Bagdad. L'Iran riposte avec des frappes sur des bases irakiennes abritant des soldats américains." },
+      { "annee": 2021, "texte": "Reprise des négociations nucléaires à Vienne. Biden maintient les sanctions tout en cherchant un nouvel accord." },
+      { "annee": 2024, "texte": "Opérations navales conjointes dans le Golfe pour contrer les saisies de tankers iraniennes. Blocus naval partiel sur certaines routes commerciales iraniens." },
+      { "annee": 2025, "texte": "Trump de retour : intensification de la pression maximale, nouvelles sanctions sectorielles, menaces de frappes sur le programme nucléaire iranien." }
+    ],
+    "consequences": "La stratégie américaine maintient l'Iran économiquement isolé mais n'a pas stoppé le programme nucléaire. La présence militaire américaine permanente dans le Golfe (5e Flotte à Bahreïn) sécurise le transit pétrolier mais est une source permanente de tensions.",
+    "posture": "hostile"
+  },
+  {
+    "id": "iran",
+    "nom": "Iran",
+    "drapeau": "🇮🇷",
+    "role": "Acteur principal, riverain nord du détroit",
+    "couleur": "#2d6b2d",
+    "actions": [
+      { "annee": 2019, "texte": "Saisie du pétrolier Stena Impero (pavillon britannique) en représailles à l'arraisonnement du Grace 1 par Gibraltar. Enrichissement de l'uranium au-delà des seuils JCPOA." },
+      { "annee": 2020, "texte": "Frappes de missiles balistiques sur la base irakienne d'Aïn al-Assad après l'assassinat de Soleimani. Aucune victime américaine, intentionnel selon certains analystes." },
+      { "annee": 2021, "texte": "Attaque au drone sur le pétrolier Mercer Street (lié à Israël), 2 morts. L'Iran nie mais les enquêtes convergent." },
+      { "annee": 2023, "texte": "Accord de normalisation avec l'Arabie Saoudite (médiation chinoise). Rapprochement tactique pour desserrer l'étau des sanctions." },
+      { "annee": 2024, "texte": "Saisie du porte-conteneurs MSC Aries dans le détroit d'Ormuz. Enrichissement uranium à 60%, proche du seuil militaire (90%). Accord de coopération militaire avec la Russie." },
+      { "annee": 2025, "texte": "Négociations avec les États-Unis sous médiation omanaise. Menaces explicites de fermeture du détroit en cas de frappes sur son territoire." }
+    ],
+    "consequences": "Malgré les sanctions, l'Iran a développé des réseaux de contournement (pétrole vendu via intermédiaires à la Chine et Inde). Le programme nucléaire a avancé significativement. L'Iran utilise le détroit comme levier de négociation permanent.",
+    "posture": "hostile"
+  },
+  {
+    "id": "arabie-saoudite",
+    "nom": "Arabie Saoudite",
+    "drapeau": "🇸🇦",
+    "role": "Principal exportateur pétrolier, rival régional de l'Iran",
+    "couleur": "#6b4a1a",
+    "actions": [
+      { "annee": 2019, "texte": "Attaques de drones et missiles sur les installations d'Aramco à Abqaïq et Khurais — attribuées aux Houthis soutenus par l'Iran. Production coupée de moitié pendant 2 semaines." },
+      { "annee": 2020, "texte": "Guerre des prix pétroliers avec la Russie (mars 2020), effondrement du baril. Poursuite de l'intervention militaire au Yémen contre les Houthis." },
+      { "annee": 2023, "texte": "Normalisation diplomatique avec l'Iran sous médiation chinoise — fin d'une rupture de 7 ans. Annonce d'un rapprochement prudent." },
+      { "annee": 2024, "texte": "Participation aux discussions sur un cessez-le-feu au Yémen. Diversification économique (Vision 2030) pour réduire la dépendance au pétrole." }
+    ],
+    "consequences": "La vulnérabilité de ses infrastructures pétrolières (démontrée en 2019) a contraint l'Arabie Saoudite à renforcer ses défenses antimissiles. La normalisation avec l'Iran réduit les tensions directes mais la méfiance reste profonde.",
+    "posture": "neutre"
+  },
+  {
+    "id": "eau",
+    "nom": "Émirats Arabes Unis",
+    "drapeau": "🇦🇪",
+    "role": "Riverain sud du détroit, hub commercial régional",
+    "couleur": "#1a6b4a",
+    "actions": [
+      { "annee": 2019, "texte": "Sabotage de 4 pétroliers au large de Fujairah (EAU) — attribué à l'Iran ou ses proxies. Les EAU renforcent leurs capacités navales." },
+      { "annee": 2020, "texte": "Signature des Accords Abraham avec Israël — normalisation historique facilitée par les États-Unis." },
+      { "annee": 2021, "texte": "Les EAU se distancient de certaines opérations navales américaines, cherchant un équilibre avec Téhéran pour protéger leurs intérêts commerciaux." },
+      { "annee": 2022, "texte": "Litige persistant sur les îles Abu Moussa et les Tumb, occupées par l'Iran depuis 1971 et revendiquées par les EAU." },
+      { "annee": 2024, "texte": "Dubaï reste un hub de contournement des sanctions iranniennes (réexportations), source de tensions avec Washington." }
+    ],
+    "consequences": "Les EAU jouent un double jeu : alliés des États-Unis et d'Israël d'un côté, partenaires commerciaux de l'Iran de l'autre. Leur position géographique (côte sud du détroit) les rend indispensables à toute coalition navale.",
+    "posture": "neutre"
+  },
+  {
+    "id": "israel",
+    "nom": "Israël",
+    "drapeau": "🇮🇱",
+    "role": "Ennemi déclaré de l'Iran, guerre des ombres permanente",
+    "couleur": "#1a3a8b",
+    "actions": [
+      { "annee": 2019, "texte": "Frappes attribuées à Israël sur des navires iraniens en Méditerranée et mer Rouge transportant des armes ou du pétrole sous sanctions." },
+      { "annee": 2021, "texte": "Attaque sur le Mercer Street — navire lié à un milliardaire israélien. Escalade de la guerre maritime des ombres." },
+      { "annee": 2024, "texte": "L'Iran saisit le MSC Aries en représailles à des opérations israéliennes. Frappes iraniennes directes sur le territoire israélien (avril 2024) — première historique." },
+      { "annee": 2025, "texte": "Pression intense sur Washington pour frapper le programme nucléaire iranien. Opérations de renseignement et sabotages attribués." }
+    ],
+    "consequences": "La guerre des ombres Iran-Israël s'est militarisée en 2024 avec des frappes directes mutuelles. Le détroit d'Ormuz est devenu un théâtre de cette confrontation via les saisies de navires liés à Israël.",
+    "posture": "hostile"
+  },
+  {
+    "id": "uk",
+    "nom": "Royaume-Uni",
+    "drapeau": "🇬🇧",
+    "role": "Puissance navale secondaire, acteur JCPOA",
+    "couleur": "#6b1a2d",
+    "actions": [
+      { "annee": 2019, "texte": "Arraisonnement du Grace 1 (pétrolier iranien) à Gibraltar — soupçonné de violer les sanctions européennes sur la Syrie. L'Iran saisit le Stena Impero en représailles 2 semaines plus tard." },
+      { "annee": 2021, "texte": "Participation à la coalition navale dans le Golfe (IMSC - International Maritime Security Construct)." },
+      { "annee": 2024, "texte": "Frappes conjointes avec les États-Unis sur les Houthis au Yémen en réponse aux attaques sur navires commerciaux en mer Rouge." }
+    ],
+    "consequences": "La saisie croisée de pétroliers en 2019 illustre la logique d'escalade dans le détroit. Le Royaume-Uni maintient une présence navale dans le Golfe mais avec des moyens réduits post-Brexit.",
+    "posture": "hostile"
+  },
+  {
+    "id": "russie",
+    "nom": "Russie",
+    "drapeau": "🇷🇺",
+    "role": "Allié tactique de l'Iran, concurrent énergétique",
+    "couleur": "#6b1a1a",
+    "actions": [
+      { "annee": 2019, "texte": "Exercices navals trilatéraux Russie-Iran-Chine dans le Golfe d'Oman — message politique fort aux États-Unis." },
+      { "annee": 2022, "texte": "Après les sanctions liées à l'Ukraine, la Russie et l'Iran développent des mécanismes communs de contournement des sanctions occidentales." },
+      { "annee": 2024, "texte": "Accord de coopération militaire et de défense entre Russie et Iran. Ventes d'armes mutuelles (drones iraniens contre Shahed utilisés en Ukraine)." }
+    ],
+    "consequences": "La Russie utilise l'Iran comme partenaire pour contourner les sanctions et distraire les États-Unis. Elle achète du pétrole iranien à prix cassé. L'axe Moscou-Téhéran remodèle l'équilibre des pouvoirs dans le Golfe.",
+    "posture": "neutre"
+  },
+  {
+    "id": "chine",
+    "nom": "Chine",
+    "drapeau": "🇨🇳",
+    "role": "Principal acheteur de pétrole iranien, médiateur régional",
+    "couleur": "#8b1a1a",
+    "actions": [
+      { "annee": 2021, "texte": "Signature d'un accord de coopération stratégique de 25 ans avec l'Iran — investissements vs pétrole à prix réduit, contournant les sanctions." },
+      { "annee": 2023, "texte": "Médiation réussie entre l'Iran et l'Arabie Saoudite — normalisation diplomatique. Premier succès diplomatique chinois majeur au Moyen-Orient." },
+      { "annee": 2024, "texte": "La Chine importe ~90% du pétrole iranien exporté malgré les sanctions, via sociétés écrans. Dépendance croissante au transit par Ormuz (50% de ses importations énergétiques)." }
+    ],
+    "consequences": "La Chine est le principal bénéficiaire économique des sanctions anti-iraniennes : elle achète le pétrole iranien à -30% du prix marché. Toute fermeture du détroit affecterait dramatiquement l'économie chinoise — d'où sa posture de neutralité calculée.",
+    "posture": "neutre"
+  },
+  {
+    "id": "houthis",
+    "nom": "Houthis (Yémen)",
+    "drapeau": "🇾🇪",
+    "role": "Proxy iranien, facteur de déstabilisation maritime",
+    "couleur": "#4a6b1a",
+    "actions": [
+      { "annee": 2019, "texte": "Attaques répétées sur infrastructure pétrolière saoudienne — drones et missiles, capacités renforcées par l'Iran." },
+      { "annee": 2023, "texte": "À partir d'octobre 2023, lancement de drones et missiles sur navires commerciaux en mer Rouge et détroit de Bab-el-Mandeb, en solidarité avec Gaza." },
+      { "annee": 2024, "texte": "Blocus de fait du détroit de Bab-el-Mandeb : 80% du trafic détourné. Les pétroliers reprennent la route du Cap (+15 jours, +$1M par trajet). Ormuz devient encore plus stratégique." },
+      { "annee": 2025, "texte": "Malgré des frappes américano-britanniques, les Houthis continuent leurs opérations. Possession de missiles antinavires hypersoniques fournis par l'Iran." }
+    ],
+    "consequences": "Les Houthis ont démontré qu'un acteur non-étatique peut paralyser des routes maritimes mondiales. Le détournement du trafic de Bab-el-Mandeb vers Ormuz a augmenté la pression sur ce dernier et fait monter les coûts du transport maritime mondial de 200 à 300%.",
+    "posture": "hostile"
+  },
+  {
+    "id": "oman",
+    "nom": "Oman",
+    "drapeau": "🇴🇲",
+    "role": "Riverain sud du détroit, médiateur discret",
+    "couleur": "#8b4a1a",
+    "actions": [
+      { "annee": 2019, "texte": "Canal de Mascate : Oman sert d'intermédiaire discret entre Washington et Téhéran pour éviter une escalade militaire." },
+      { "annee": 2021, "texte": "Médiation dans les négociations sur la libération de ressortissants américains détenus en Iran." },
+      { "annee": 2024, "texte": "Facilitation des pourparlers indirects USA-Iran dans le contexte du programme nucléaire et de la crise de Bab-el-Mandeb." },
+      { "annee": 2025, "texte": "Hôte des négociations secrètes américano-iraniennes en cours." }
+    ],
+    "consequences": "Oman est la seule nation à maintenir des relations diplomatiques normales à la fois avec l'Iran, les États-Unis et Israël. Sa position géographique au débouché du détroit et sa neutralité en font un acteur indispensable à toute désescalade.",
+    "posture": "neutre"
+  }
+]

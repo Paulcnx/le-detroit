@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew --version)",
+      "Bash(xcode-select -p)",
+      "Bash(brew install *)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(python3 -m http.server 8000)",
+      "Bash(echo \"PID: $!\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000)",
+      "Bash(node -e ' *)",
+      "Bash(cat)",
+      "Bash(python3 /tmp/gen_icon.py)",
+      "Bash(node *)",
+      "Bash(curl -s http://localhost:3000/api/latest)",
+      "Bash(curl -s \"https://generativelanguage.googleapis.com/v1beta/models?key=AIzaSyAw1CHlGlJNuat3yI_wWYZeY-daewLiSgU\")",
+      "Bash(curl -s -X POST 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=AIzaSyAw1CHlGlJNuat3yI_wWYZeY-daewLiSgU' -H 'Content-Type: application/json' -d '{\"contents\":[{\"parts\":[{\"text\":\"Dis bonjour en une phrase\"}]}]}')",
+      "Bash(pkill -f \"node server.js\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(pkill -f \"node server.js\" node server.js)",
+      "Bash(curl -s http://localhost:3000/api/history)",
+      "Bash(curl -v http://localhost:3000/api/history)",
+      "Bash(pkill -f \"node\")",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

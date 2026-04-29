@@ -1,0 +1,291 @@
+[
+  {
+    "id": "1900-1918",
+    "periode": "1900–1918",
+    "titre": "Le lac britannique",
+    "resume": "Le détroit d'Ormuz est alors au cœur du Golfe Persique, dominé depuis le XVIIIe siècle par la puissance navale britannique. Londres contrôle les routes maritimes via ses traités avec les émirs de la côte (futurs Émirats arabes unis), Bahreïn, Koweït et Oman. En 1908, la découverte de pétrole dans le Khuzestan iranien par l'Anglo-Persian Oil Company change tout : le détroit cesse d'être une simple voie commerciale pour devenir une artère stratégique de premier plan.",
+    "evenements": [
+      {
+        "annee": 1908,
+        "texte": "Découverte du pétrole en Perse par l'Anglo-Persian Oil Company (future BP)"
+      },
+      {
+        "annee": 1914,
+        "texte": "La Royal Navy convertit ses navires au pétrole — le Golfe devient vital pour l'Empire britannique"
+      }
+    ],
+    "couleur": "#8B4513"
+  },
+  {
+    "id": "1918-1945",
+    "periode": "1918–1945",
+    "titre": "L'or noir structure tout",
+    "resume": "L'entre-deux-guerres voit la montée en puissance des grandes compagnies pétrolières anglo-américaines. L'Iran, sous la dynastie Pahlavi depuis 1925, tente de renégocier les conditions d'exploitation pétrolière avec les Britanniques — sans succès. La Seconde Guerre mondiale fait du Golfe Persique un corridor d'approvisionnement crucial pour l'URSS (corridor persan). Les États-Unis font leur entrée dans la région en sécurisant leurs intérêts en Arabie saoudite.",
+    "evenements": [
+      {
+        "annee": 1925,
+        "texte": "Reza Shah Pahlavi prend le pouvoir en Iran, modernisation forcée du pays"
+      },
+      {
+        "annee": 1932,
+        "texte": "Pétrole découvert à Bahreïn — l'ensemble du Golfe s'avère assis sur des réserves immenses"
+      },
+      {
+        "annee": 1941,
+        "texte": "Invasion anglo-soviétique de l'Iran pour sécuriser le corridor d'approvisionnement vers Moscou"
+      },
+      {
+        "annee": 1944,
+        "texte": "L'Arabie saoudite accorde des concessions pétrolières massives aux compagnies américaines"
+      }
+    ],
+    "couleur": "#B8860B"
+  },
+  {
+    "id": "1945-1968",
+    "periode": "1945–1968",
+    "titre": "La guerre froide s'installe dans le Golfe",
+    "resume": "Après 1945, les États-Unis remplacent progressivement la Grande-Bretagne comme puissance dominante dans la région. La nationalisation du pétrole iranien par Mossadegh en 1951 provoque une crise majeure : un coup d'État orchestré par la CIA et le MI6 renverse le Premier ministre en 1953 et restaure le Shah. Le détroit d'Ormuz, par lequel transite l'essentiel du pétrole du Golfe, entre dans le vocabulaire stratégique des superpuissances.",
+    "evenements": [
+      {
+        "annee": 1951,
+        "texte": "Mossadegh nationalise l'Anglo-Iranian Oil Company — crise internationale"
+      },
+      {
+        "annee": 1953,
+        "texte": "Coup d'État CIA/MI6 (opération Ajax) — le Shah reprend le pouvoir"
+      },
+      {
+        "annee": 1960,
+        "texte": "Création de l'OPEP — Iran, Irak, Arabie saoudite, Venezuela, Koweït"
+      },
+      {
+        "annee": 1968,
+        "texte": "La Grande-Bretagne annonce son retrait militaire 'à l'est de Suez' d'ici 1971"
+      }
+    ],
+    "couleur": "#2F4F4F"
+  },
+  {
+    "id": "1968-1979",
+    "periode": "1968–1979",
+    "titre": "Le Gendarme du Golfe",
+    "resume": "Le retrait britannique crée un vide que les États-Unis comblent en s'appuyant sur le Shah d'Iran, transformé en 'gendarme du Golfe' selon la doctrine Nixon. L'Iran s'arme massivement avec du matériel américain et prend le contrôle de trois îles stratégiques à l'entrée du détroit (Abu Moussa, Grande Tumb, Petite Tumb) en 1971. Le choc pétrolier de 1973 quadruple le prix du brut et révèle au monde entier la vulnérabilité de l'Occident vis-à-vis du détroit d'Ormuz.",
+    "evenements": [
+      {
+        "annee": 1971,
+        "texte": "L'Iran occupe les îles Abu Moussa et les îles Tumb à l'entrée du détroit"
+      },
+      {
+        "annee": 1973,
+        "texte": "Choc pétrolier : l'OPEP embargo le pétrole vers l'Occident — prix × 4"
+      },
+      {
+        "annee": 1975,
+        "texte": "Accord d'Alger entre l'Iran et l'Irak — apaisement provisoire"
+      },
+      {
+        "annee": 1978,
+        "texte": "Début des manifestations contre le Shah en Iran"
+      }
+    ],
+    "couleur": "#4B6B3A"
+  },
+  {
+    "id": "1979-1988",
+    "periode": "1979–1988",
+    "titre": "Révolution, guerre et 'Guerre des pétroliers'",
+    "resume": "La révolution islamique de 1979 renverse le Shah et installe la République islamique. Khomeini ferme les bases américaines, nationalise les actifs étrangers et exporte sa révolution. En 1980, l'Irak de Saddam Hussein envahit l'Iran, déclenchant une guerre de huit ans. À partir de 1984, la 'guerre des pétroliers' voit les deux belligérants attaquer des navires marchands dans le Golfe. Le détroit d'Ormuz est miné, des pétroliers coulent — les États-Unis interviennent pour escorter les tankers koweïtiens.",
+    "evenements": [
+      {
+        "annee": 1979,
+        "texte": "Révolution islamique en Iran — chute du Shah, Khomeini au pouvoir"
+      },
+      {
+        "annee": 1979,
+        "texte": "Second choc pétrolier — prix du baril × 2"
+      },
+      {
+        "annee": 1980,
+        "texte": "L'Irak envahit l'Iran — début de la guerre Iran-Irak (8 ans)"
+      },
+      {
+        "annee": 1984,
+        "texte": "Début de la 'guerre des pétroliers' — attaques sur tankers dans le Golfe"
+      },
+      {
+        "annee": 1987,
+        "texte": "Opération Earnest Will : la marine américaine escorte les pétroliers koweïtiens"
+      },
+      {
+        "annee": 1988,
+        "texte": "L'USS Vincennes abat par erreur l'airbus Iran Air 655 — 290 morts"
+      }
+    ],
+    "couleur": "#8B0000"
+  },
+  {
+    "id": "1988-2001",
+    "periode": "1988–2001",
+    "titre": "Pax Americana dans le Golfe",
+    "resume": "La fin de la guerre Iran-Irak en 1988 puis la guerre du Koweït en 1990-91 (Tempête du Désert) installent durablement les États-Unis comme puissance militaire dominante du Golfe. Des bases permanentes s'établissent au Qatar, Bahreïn, Koweït. L'Iran, affaibli et isolé sous sanctions, adopte une posture plus prudente. Mais la présence américaine alimente le ressentiment qui aboutira aux attentats du 11 septembre 2001.",
+    "evenements": [
+      {
+        "annee": 1988,
+        "texte": "Cessez-le-feu Iran-Irak — fin de 8 ans de guerre, ~500 000 morts"
+      },
+      {
+        "annee": 1990,
+        "texte": "Saddam Hussein envahit le Koweït"
+      },
+      {
+        "annee": 1991,
+        "texte": "Opération Tempête du Désert — coalition de 35 pays libère le Koweït"
+      },
+      {
+        "annee": 1995,
+        "texte": "Sanctions américaines renforcées contre l'Iran"
+      },
+      {
+        "annee": 1996,
+        "texte": "L'Iran renforce ses positions dans les îles du détroit, tensions avec les EAU"
+      }
+    ],
+    "couleur": "#1C3A5E"
+  },
+  {
+    "id": "2001-2010",
+    "periode": "2001–2010",
+    "titre": "Le programme nucléaire iranien au centre de tout",
+    "resume": "Après le 11 septembre, l'axe du mal désigné par Bush inclut l'Iran. La guerre en Irak (2003) renforce paradoxalement l'influence iranienne dans la région en éliminant le principal contrepoids sunnite. L'Iran relance activement son programme nucléaire à partir de 2005 sous Ahmadinejad. Les menaces de fermeture du détroit d'Ormuz — par lequel transitent 20% du pétrole mondial — deviennent un levier de négociation explicite de Téhéran face aux pressions occidentales.",
+    "evenements": [
+      {
+        "annee": 2002,
+        "texte": "Bush inclut l'Iran dans l'Axe du Mal dans son discours sur l'état de l'Union"
+      },
+      {
+        "annee": 2003,
+        "texte": "Invasion américaine de l'Irak — renforcement indirect de l'influence iranienne"
+      },
+      {
+        "annee": 2005,
+        "texte": "Ahmadinejad élu président — reprise agressive du programme nucléaire"
+      },
+      {
+        "annee": 2006,
+        "texte": "L'Iran annonce avoir enrichi de l'uranium — sanctions ONU"
+      },
+      {
+        "annee": 2008,
+        "texte": "Exercices militaires iraniens dans le détroit — premières menaces explicites de fermeture"
+      }
+    ],
+    "couleur": "#5C3A8B"
+  },
+  {
+    "id": "2010-2018",
+    "periode": "2010–2018",
+    "titre": "Le JCPOA et l'accalmie relative",
+    "resume": "Les sanctions internationales massives contre l'Iran (2010-2012) font chuter les exportations pétrolières de moitié. En réponse, l'Iran multiplie les incidents dans le détroit. Les négociations aboutissent en 2015 à l'accord nucléaire historique (JCPOA) : l'Iran gèle son programme en échange de la levée des sanctions. Le pétrole iranien revient sur les marchés. Mais en mai 2018, Trump se retire unilatéralement du JCPOA et rétablit des sanctions maximales — déclenchant une nouvelle escalade.",
+    "evenements": [
+      {
+        "annee": 2011,
+        "texte": "L'Iran menace de fermer le détroit face aux sanctions sur son pétrole"
+      },
+      {
+        "annee": 2012,
+        "texte": "Exercices Velayat-90 : l'Iran simule la fermeture du détroit d'Ormuz"
+      },
+      {
+        "annee": 2015,
+        "texte": "Signature du JCPOA — accord nucléaire Iran/P5+1"
+      },
+      {
+        "annee": 2016,
+        "texte": "Levée des sanctions — le pétrole iranien revient sur les marchés mondiaux"
+      },
+      {
+        "annee": 2018,
+        "texte": "Trump se retire du JCPOA — rétablissement de la 'pression maximale'"
+      }
+    ],
+    "couleur": "#2E7D32"
+  },
+  {
+    "id": "2018-2024",
+    "periode": "2018–présent",
+    "titre": "Pression maximale, saisies de tankers et blocus naval",
+    "resume": "Depuis 2019, la région connaît une escalade constante. L'Iran saisit des pétroliers étrangers, attaque des infrastructures saoudiennes par drones interposés (via les Houthis yéménites), et s'approche du seuil d'enrichissement de l'uranium. L'assassinat du général Soleimani en janvier 2020 pousse les deux pays au bord de la guerre ouverte. Fin 2023, les Houthis bloquent le détroit de Bab-el-Mandeb, forçant les pétroliers à repasser par le Cap — rendant Ormuz encore plus stratégique pour le transit vers l'Asie.\n\nEn 2024, l'Iran procède à ses premières frappes directes sur le territoire israélien (avril 2024), marquant une escalade historique dans la guerre des ombres. Le MSC Aries est saisi dans le détroit. L'enrichissement uranium atteint 60%, à un pas du seuil militaire.\n\nEn 2025, Trump de retour à la Maison-Blanche intensifie la pression maximale avec de nouvelles sanctions sectorielles ciblant les exportations pétrolières iraniennes. Des négociations indirectes USA-Iran se tiennent à Mascate (Oman) sous médiation omanaise. L'Iran maintient ses menaces de fermeture du détroit en cas de frappe militaire sur son territoire, alors que le blocus naval américain sur certaines routes commerciales iraniennes génère des tensions quotidiennes.",
+    "evenements": [
+      {
+        "annee": 2019,
+        "texte": "Attaques sur tankers dans le Golfe d'Oman — accusation américaine contre l'Iran"
+      },
+      {
+        "annee": 2019,
+        "texte": "L'Iran saisit le Stena Impero, pétrolier battant pavillon britannique"
+      },
+      {
+        "annee": 2020,
+        "texte": "Assassinat du général Qassem Soleimani par drone américain à Bagdad"
+      },
+      {
+        "annee": 2021,
+        "texte": "Attaque au drone sur le pétrolier Mercer Street — 2 morts, Iran accusé"
+      },
+      {
+        "annee": 2023,
+        "texte": "Les Houthis attaquent les navires commerciaux en mer Rouge — détournement du trafic vers Ormuz"
+      },
+      {
+        "annee": 2024,
+        "texte": "L'Iran saisit le MSC Aries, porte-conteneurs lié à Israël, dans le détroit d'Ormuz"
+      },
+      {
+        "annee": 2024,
+        "texte": "Premières frappes directes iraniennes sur le territoire israélien — escalade historique (avril 2024)"
+      },
+      {
+        "annee": 2024,
+        "texte": "Enrichissement uranium iranien à 60% — proche du seuil militaire (90%)"
+      },
+      {
+        "annee": 2025,
+        "texte": "Retour de Trump : intensification de la pression maximale, nouvelles sanctions sur le pétrole iranien"
+      },
+      {
+        "annee": 2025,
+        "texte": "Négociations indirectes USA-Iran à Mascate sous médiation omanaise"
+      },
+      {
+        "annee": 2025,
+        "texte": "Blocus naval américain partiel sur des routes commerciales iraniennes — incidents quotidiens dans le détroit"
+      },
+      {
+        "annee": 2026,
+        "texte": "Tensions entre l'Iran et les États-Unis : Trump annonce levée du blocus"
+      },
+      {
+        "annee": 2026,
+        "texte": "Un yacht russe franchit le détroit d'Hormuz malgré le blocus"
+      },
+      {
+        "annee": 2026,
+        "texte": "La Grande-Bretagne somme l'Iran d'expliquer un message ambigu"
+      },
+      {
+        "annee": 2026,
+        "texte": "Crisis au Moyen-Orient: Trump contre Merz sur la stratégie américaine en Iran"
+      },
+      {
+        "annee": 2026,
+        "texte": "Blocus naval au Moyen-Orient: les Emirats arabes unis retirent leur soutien."
+      },
+      {
+        "annee": 2026,
+        "texte": "Un yacht russe traverse le détroit d'Hormuz malgré le blocus."
+      }
+    ],
+    "couleur": "#B71C1C"
+  }
+]

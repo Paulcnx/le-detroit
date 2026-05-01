@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2026-04-29T01:24:48.532Z",
+  "lastUpdate": "2026-05-01T13:58:39.805Z",
   "days": [
+    {
+      "date": "2026-05-01",
+      "actualites": [
+        {
+          "titre": "La menace de Trump : Pourquoi la réduction des troupes américaines en Europe ne sera pas facile",
+          "resume": "Le président américain Donald Trump a menacé de réduire les effectifs militaires américains en Allemagne, au cœur d'une crise transatlantique sur la guerre en Iran. Cette décision s'inscrit dans un contexte de tensions accrues entre les États-Unis et l'Union européenne, qui se sont exprimées notamment à travers la controverse sur le nucléaire iranien. Les États-Unis ont récemment décidé de retirer leurs troupes d'Afghanistan, ce qui pourrait avoir des conséquences importantes pour la présence militaire américaine en Europe. Les conséquences probables de cette décision seraient une réduction de la présence militaire américaine en Europe, ce qui pourrait avoir des impacts significatifs sur la sécurité régionale et les relations entre les États-Unis et l'UE. Les acteurs clés, tels que l'Allemagne, la France et les États-Unis, devront négocier pour trouver un accord qui répond aux besoins de sécurité de tous les pays impliqués. Le contexte géopolitique actuel, marqué par la montée en puissance de la Chine et la Russie, rend cette décision encore plus complexe.",
+          "categorie": "diplomatique|militaire",
+          "source": "Al Jazeera",
+          "date": "2026-05-01T13:25:46.000Z",
+          "url": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss"
+        },
+        {
+          "titre": "Un couple britannique condamné à 10 ans de prison en Iran",
+          "resume": "Un couple britannique, Lindsay et Craig Foreman, a été condamné à 10 ans de prison en Iran pour avoir été arrêtés en mai 2022 alors qu'ils effectuaient un tour en moto dans le pays. Selon les informations disponibles, les deux touristes ont été accusés d'espionnage et d'activités anti-révolutionnaires. Cette condamnation intervient dans un contexte tendu entre l'Iran et l'Occident, notamment en raison des négociations sur le nucléaire iranien. Les États-Unis et d'autres pays occidentaux ont condamné la condamnation du couple, qualifiant cette décision de 'déplorable'. Les conséquences de cette condamnation sont encore incertaines, mais elle risque de renforcer la tension entre l'Iran et l'Occident. L'Iran a récemment accusé les États-Unis d'avoir été impliqués dans les manifestations qui ont éclaté dans le pays en septembre 2022, ce qui a conduit à une escalade des tensions.",
+          "categorie": "diplomatique",
+          "source": "BBC",
+          "date": "2026-05-01T05:04:08.000Z",
+          "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "titre": "Crise humanitaire au détroit d'Ormuz : la marine britannique alerte sur une situation critique",
+          "resume": "La marine britannique a alerté sur une « crise humanitaire imminente » dans le détroit d'Ormuz, au Moyen-Orient, où le trafic maritime a chuté de plus de 90%. Environ 20 000 marins se trouvent bloqués sans perspective de relève ni de retour, selon le centre de surveillance maritime de la Royal Navy. Cette situation est le résultat de la guerre au Moyen-Orient, qui a entraîné une instabilité géopolitique et des tensions entre les pays de la région. La crise humanitaire est susceptible de se poursuivre si les parties en conflit ne trouvent pas une solution rapide. Les acteurs impliqués, tels que les États-Unis, l'Iran et les pays du Golfe, doivent prendre des mesures pour éviter une catastrophe humanitaire. Les conséquences de cette crise pourraient être graves, notamment en termes de sécurité maritime et de commerce international. La situation est particulièrement sensible compte tenu de l'importance stratégique du détroit d'Ormuz, qui est un passage crucial pour le trafic pétrolier entre l'Iran et l'Arabie saoudite.",
+          "categorie": "militaire|diplomatique",
+          "source": "Le Monde",
+          "date": "2026-05-01T12:38:14.000Z",
+          "url": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-la-marine-britannique-alerte-sur-une-crise-humanitaire-imminente-dans-le-detroit-d-ormuz_6684072_3210.html"
+        },
+        {
+          "titre": "Les sociétés américaines d'hydrocarbures hésitent à combler le déficit énergétique mondial",
+          "resume": "Les sociétés pétrolières américaines sont confrontées à une pression de la part de leurs investisseurs pour contrôler leurs dépenses, et elles sont réticentes à forer de nouveaux puits car elles ne sont pas certaines que les prix du pétrole resteront élevés. Selon une analyse de la New York Times, les producteurs américains sont bloqués par la peur de ne pas récupérer leurs investissements, ce qui pourrait avoir des conséquences importantes sur la sécurité énergétique mondiale. Le contexte est celui d'une demande croissante de pétrole et de gaz, notamment en Asie, tandis que les réserves mondiales sont en baisse. Les conséquences probables de cette situation sont une augmentation des prix du pétrole, une dépendance accrue des pays en développement à l'égard des importations de pétrole et une augmentation de la pression sur les réserves mondiales. Les acteurs clés sont les sociétés pétrolières américaines, les investisseurs et les pays importateurs de pétrole, qui sont divisés entre ceux qui souhaitent une production accrue et ceux qui préfèrent une gestion plus prudente des ressources énergétiques.",
+          "categorie": "économique",
+          "source": "NY Times",
+          "date": "2026-05-01T10:31:34.000Z",
+          "url": "https://www.nytimes.com/2026/05/01/business/energy-environment/exxon-mobile-chevron-oil-iran-war.html"
+        },
+        {
+          "titre": "L'administration Trump annonce la fin des hostilités avec l'Iran avant la déchéance de ses pouvoirs de guerre",
+          "resume": "L'administration Trump a déclaré que les hostilités avec l'Iran étaient terminées, permettant au président américain de ne pas faire valoir sa demande de prolongation des pouvoirs de guerre devant le Congrès. Cette décision intervient avant le délai de 60 jours qui expire vendredi. Les hostilités entre les États-Unis et l'Iran avaient commencé en janvier dernier après l'assassinat du général iranien Qassem Soleimani. La situation s'est calmée en avril dernier avec l'instauration d'un cessez-le-feu. Cette décision de l'administration Trump a des conséquences géopolitiques importantes, car elle permettra de maintenir la pression sur l'Iran sans avoir à justifier une nouvelle extension des pouvoirs de guerre. Les États-Unis, l'Iran et la communauté internationale devront maintenant attendre de voir comment cette décision sera perçue et comment elle influencera les relations entre les deux pays.",
+          "categorie": "diplomatique",
+          "source": "The Guardian",
+          "date": "2026-05-01T03:10:49.000Z",
+          "url": "https://www.theguardian.com/world/2026/apr/30/senate-republicans-block-trump-iran-war-halt"
+        },
+        {
+          "titre": "Trump risque de regretter la guerre en Iran",
+          "resume": "Donald Trump a espéré que la guerre en Iran serait une étape décisive dans la résolution du conflit, mais elle s'est révélée être juste une nouvelle ronde de violence. Depuis la fin de l'année 2020, les deux pays ont échangé des coups, avec des attaques aériennes et des bombardements. Les pertes humaines sont importantes, avec des chiffres estimés à plusieurs centaines de morts. Le contexte est complexe, car la guerre en Iran est enracinée dans des décennies de tensions entre les deux pays, notamment liées au nucléaire iranien et aux intérêts régionaux. Les conséquences probables de cette guerre sont graves, notamment en termes de sécurité régionale et de stabilité économique. Les acteurs clés, tels que les États-Unis, l'Iran, l'Arabie saoudite et Israël, ont des positions divergentes sur la manière de résoudre le conflit. Les États-Unis ont mené des opérations militaires en Iran, tandis que l'Iran a riposté avec des attaques à la roquette. L'Arabie saoudite et Israël soutiennent les États-Unis, tandis que l'Iran bénéficie du soutien de pays tels que la Russie et la Chine. Les conséquences militaires, économiques et géopolitiques de cette guerre sont encore incertaines, mais il est clair que la situation est tendue et que les risques de déstabilisation régionale sont élevés.",
+          "categorie": "militaire|diplomatique|economique",
+          "source": "Foreign Policy",
+          "date": "2026-05-01T13:26:49.000Z",
+          "url": "https://foreignpolicy.com/2026/05/01/trump-iran-war-regret-cease-fire/"
+        }
+      ],
+      "petrole": {}
+    },
     {
       "date": "2026-04-29",
       "actualites": [
